@@ -15,4 +15,6 @@ A swift project to create a real time chat application in Swift 5 using Firebase
 - Deleting Conversations
 - User Profile
 
-
+To run The app,
+Extract both Pods.rar folder
+Run Messenger.xcworkspace on an ios virtual machine
